@@ -1,7 +1,8 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **Samsung Electro-mechanics**, Global manufacturing center, staff engineer (2021)
+- **GIVITA**, AI Part, AI Engineer (2022)
+- **Samsung Electro-mechanics**, Global manufacturing center, staff engineer (2021 ~ 2022)
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior researcher (2010 ~ 2020)
 
 ### Research interests  
